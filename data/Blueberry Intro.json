@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free",
     "records": [
+        {
+            "user": "BlanKTM",
+            "link": "https://cdn.discordapp.com/attachments/1517968874350448721/1517968874597908633/IMG_3498.mov?ex=6a38362e&is=6a36e4ae&hm=e62ed77fc8a90a6178d2b054b5054d793de8095695c2710dd6146e5c6061d52f&",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
