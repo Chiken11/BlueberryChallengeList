@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free",
     "records": [
+        {
+            "user": "Judah_ADG",
+            "link": "https://youtu.be/da7F9gQvnOo",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
