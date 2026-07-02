@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free",
     "records": [
+        {
+            "user": "CyrryGD",
+            "link": "https://youtu.be/JKHn1KubtSE?si=-wkeE7EezQcb2hM4",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
